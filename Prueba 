@@ -1,0 +1,10 @@
+print("como te llams")
+nombre - imput ()
+print("hola" , "nombre, espero que estes muy bien")
+
+print("Hoy es 15 de septiembre)
+si-no  - imput ()
+if si_no== "si"
+print("hola" , "genial diviertete mucho")
+Else:
+print("Pues f por ti") #Se pone identacion ´para que el interprete reconozca que esta instruccion va denro de ti+
